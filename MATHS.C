@@ -13,7 +13,7 @@ void main(){
 	cprintf("What would you like to practice?\n\n");
 	printf("\n");
 	printf ("1. Additions / Plus - Rechnen\n");
-	printf ("2. Substractions / Minus - Rechnen\n");
+	printf ("2. Subtractions / Minus - Rechnen\n");
 	printf ("3. Multiplication / Multiplizieren\n");
 	printf ("4. Division / Dividieren\n\n");
 	printf ("5. Enough for today, Genug geuebt?\n");
